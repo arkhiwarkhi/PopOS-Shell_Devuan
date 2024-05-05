@@ -10,11 +10,11 @@ sudo apt-get install nodejs npm
 sudo npm install --global typescript
 ```
 3. Clone the relevant github branch.
-  a. For Daedalus and prior (GNOME versions 3.36-44):
+For Daedalus and prior (GNOME versions 3.36-44):
      ```
      git clone -b master_jammy https://github.com/pop-os/shell
      ```
-  b. For GNOME versions beyond 44:
+For GNOME versions beyond 44:
     ```
     git clone https://github.com/pop-os/shell
     ```
